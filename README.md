@@ -12,9 +12,26 @@ My passion lies in architecting AI agents, high-performance web search engines, 
 
 ## 💻 Tech Stack
 I'm well-versed in a range of programming languages, tools, and frameworks, including:
+<br>
 
-[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org) [![tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)](https://www.tensorflow.org) [![pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)](https://pytorch.org/) [![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/) [![fastapi](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg)](https://fastapi.tiangolo.com/) [![looker](https://cdn.simpleicons.org/looker/4285F4)](https://lookerstudio.google.com/) [![powerbi](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)](https://powerbi.microsoft.com/) [![pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/) [![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/) [![snowflake](https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg)](https://www.snowflake.com/) [![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)](https://aws.amazon.com) [![gcp](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)](https://cloud.google.com) [![azure](https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg)](https://azure.microsoft.com/) [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) [![cplusplus](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://isocpp.org/) [![r](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)](https://www.r-project.org/)
+<a href="https://www.python.org" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/></a>
+<a href="https://pytorch.org/" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40"/></a>
+<a href="https://lookerstudio.google.com/" target="_blank"><img align="left" src="https://cdn.simpleicons.org/looker/4285F4" alt="looker" width="40"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/></a>
+<a href="https://www.snowflake.com/" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40"/></a>
+<a href="https://aws.amazon.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/></a>
+<a href="https://cloud.google.com" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/></a>
+<a href="https://isocpp.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40"/></a>
 
+<br><br>
 And I'm actively exploring more!
 
 ## 🏆 Achievements & Projects
