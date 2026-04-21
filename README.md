@@ -31,7 +31,9 @@ I'm well-versed in a range of programming languages, tools, and frameworks, incl
 <a href="https://isocpp.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/></a>
 <a href="https://www.r-project.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40"/></a>
 
-<br><br>
+<br clear="both"/>
+<br>
+
 And I'm actively exploring more!
 
 ## 🏆 Achievements & Projects
