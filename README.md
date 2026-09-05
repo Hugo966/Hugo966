@@ -39,7 +39,7 @@ And I'm actively exploring more!
 ## 🏆 Achievements & Projects
 - 📈 **Stock Market Predictor (RNN):** Designed a custom **multimodal autoregressive RNN** architecture fusing price, volume, and sentiment, deployed 24/7 on GCP.
 - 🤖 **AI-Driven Real-Time Analyzer:** Engineered a trading intelligence system using **LLMs** to capitalize on market inefficiencies and news overreaction.
-- 🍳 **Algorithmic Recipe Search Engine:** Built a Full Stack engine processing **+2M recipes** with instant retrieval (<100ms latency) using MeiliSearch.
+- 🍳 **Algorithmic Recipe Search Engine:** Full Stack engine processing **+2M recipes** with instant retrieval based on custom macro-nutrient algorithms.
 - 🌍 **International Mobility:** Successfully completed an **Erasmus+ exchange in Bergen, Norway**, thriving in a multicultural Nordic environment.
 
 📬 Let's Connect
