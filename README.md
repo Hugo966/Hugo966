@@ -37,9 +37,10 @@ I'm well-versed in a range of programming languages, tools, and frameworks, incl
 And I'm actively exploring more!
 
 ## 🏆 Achievements & Projects
-- 📈 **Stock Market Predictor (RNN):** Designed a custom **multimodal autoregressive RNN** architecture fusing price, volume, and sentiment, deployed 24/7 on GCP.
+- 📊 **[Multi-Region Equity Screener](https://github.com/Hugo966/swing-screener):** Momentum + quality ranking across four regions (~6,000 tickers), validated with a **13-year point-in-time backtest** built from raw SEC filings to eliminate look-ahead bias. Reports honestly that no excess return reaches statistical significance in any region — the study is the deliverable, not the claim. Runs daily on a free-tier GCP VM.
+- 📈 **[Stock Market Predictor (RNN)](https://github.com/Hugo966/qqq_etf_predictor):** Designed a custom **multimodal autoregressive RNN** architecture fusing price, volume, and sentiment, deployed 24/7 on GCP.
 - 🤖 **AI-Driven Real-Time Analyzer:** Engineered a trading intelligence system using **LLMs** to capitalize on market inefficiencies and news overreaction.
-- 🍳 **Algorithmic Recipe Search Engine:** Macro-targeted recipe search over a **2.2M recipe corpus**, solving for serving size instead of filtering on it. Kivy app, runs offline on Android.
+- 🍳 **[Algorithmic Recipe Search Engine](https://github.com/Hugo966/Algorithmic-Recipe-Search-Engine):** Macro-targeted recipe search over a **2.2M recipe corpus**, solving for serving size instead of filtering on it. Kivy app, runs offline on Android.
 - 🌍 **International Mobility:** Successfully completed an **Erasmus+ exchange in Bergen, Norway**, thriving in a multicultural Nordic environment.
 
 📬 Let's Connect
