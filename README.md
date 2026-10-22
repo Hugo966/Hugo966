@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Hugo Gálvez Ureña
 
 ## About Me
-**Head of AI & Data Analytics** | AI Engineer & Data Scientist
+**Lead of AI & Data Analytics** | AI Engineer & Data Scientist
 
 - 🎓 **Master's Degree:** Big Data and Data Analytics at International University of Valencia (VIU)
 - 🎓 **Bachelor's Degree:** Computer Science at University of Granada & University of Bergen (Erasmus+)
